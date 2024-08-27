@@ -6,7 +6,7 @@
   
   <h3> Linkedin: <a href="https://github.com/HQuang123"> HQuang123</a>  </h3>
 
-  <h4> Nice to meet you </h4>
+  <h4> Nice to meet you !</h4>
 
 </body>
 </html>
